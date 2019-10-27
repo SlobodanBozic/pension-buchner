@@ -19,7 +19,7 @@
 >(*Browser* best for Chrome and Firefox)
 
 ## Description:
-* It is a very simple website *Pension Buchner*
+* *Pension Buchner* is website for hotel booking.
 * This website is created with HTML5, CSS3, Bootstrap 4, JavaScript and JQuery.
 * CSS flexbox layout
 * implement good-looking responsive layouts
