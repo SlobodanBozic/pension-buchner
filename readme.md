@@ -4,7 +4,7 @@
 
 # [SlobodanBozic](https://github.com/SlobodanBozic)
 
-[Laravel FREE E-Shop Software](http://autoservisbozic.com/) 1.0v is a eShop web application made with [Framework Used: Laravel 5.8](https://laravel.com/docs/5.8/) Framework.
+[Made in Laravel Hotel booking Software](http://slobodanbozic.com/pensionBuchner-public/) 1.0v is a eShop web application made with [Framework Used: Laravel 5.8](https://laravel.com/docs/5.8/) Framework.
 >(This project is currently *under development.*)
 
 ## Getting Started
@@ -19,7 +19,7 @@
 >(*Browser* best for Chrome and Firefox)
 
 ## Description:
-* It is a very simple website *eShop*
+* It is a very simple website *Pension Buchner*
 * This website is created with HTML5, CSS3, Bootstrap 4, JavaScript and JQuery.
 * CSS flexbox layout
 * implement good-looking responsive layouts
@@ -29,7 +29,7 @@
 * *Password:* adminpass
 
 ## Bugs and Issues
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/SlobodanBozic/AutoServisBozic/issues) here on GitHub.
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/SlobodanBozic/pension-buchner/issues) here on GitHub.
 
 ## Social Network
 > LinkedIn: [@SlobodanBozic](https://www.linkedin.com/in/slobodan-bo%C5%BEi%C4%87-1b7917a0/) &nbsp;&middot;&nbsp;
