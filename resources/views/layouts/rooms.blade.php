@@ -53,5 +53,6 @@
      <script src="{{ asset('js/jquery.timepicker.min.js') }}"></script>
 
      <script src="{{ asset('js/main.js') }}"></script>
+     <script src="{{ asset('js/room.js') }}"></script>
 </body>
 </html>

@@ -14,19 +14,23 @@
 
     <title>{{ config('app.name', 'Pension-Buchner') }}</title>
 
+    <!--     Fonts and icons     -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
 
     <!-- Styles -->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+
     <link rel="stylesheet" href="{{ asset('css/animate.css') }}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">
     <link rel="stylesheet" href="{{ asset('css/aos.css') }}">
     <link rel="stylesheet" href="{{ asset('css/bootstrap-datepicker.css') }}">
     <link rel="stylesheet" href="{{ asset('css/jquery.timepicker.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/fancybox.min.css') }}">
-
     <link rel="stylesheet" href="{{ asset('fonts/ionicons/css/ionicons.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
+    <link rel="stylesheet" href="{{ asset('css/bootstrap-v3.3.5.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/material-bootstrap-wizard.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
 <body>
 
@@ -40,17 +44,22 @@
 
 
     <!-- Scripts -->
-     <script src="{{ asset('js/jquery-3.3.1.min.js') }}"></script>
-     <script src="{{ asset('js/jquery-migrate-3.0.1.min.js') }}"></script>
+    <script src="{{ asset('js/jquery-3.3.1.min.js') }}"></script>
+    <script src="{{ asset('js/jquery-migrate-3.0.1.min.js') }}"></script>
+
      <script src="{{ asset('js/popper.min.js') }}"></script>
      <script src="{{ asset('js/bootstrap.min.js') }}"></script>
      <script src="{{ asset('js/owl.carousel.min.js') }}"></script>
      <script src="{{ asset('js/jquery.stellar.min.js') }}"></script>
-     <script src="{{ asset('js/jquery.fancybox.min.js') }}"></script>
      <script src="{{ asset('js/aos.js') }}"></script>
      <script src="{{ asset('js/bootstrap-datepicker.js') }}"></script>
      <script src="{{ asset('js/jquery.timepicker.min.js') }}"></script>
 
-     <script src="{{ asset('js/main.js') }}"></script>
+     <script src="{{ asset('js/jquery.bootstrap.js') }}" type="text/javascript"></script>
+     <script src="{{ asset('js/material-bootstrap-wizard.js') }}" type="text/javascript"></script>
+     <script src="{{ asset('js/jquery.validate.min.js') }}" type="text/javascript"></script>
+
+      <script src="{{ asset('js/main.js') }}"></script>
+
 </body>
 </html>
